@@ -6,3 +6,5 @@ __pycache__/
 .vscode/
 .idea/
 .pycharm/
+lucene_code_index/
+lucene_issue_index/
